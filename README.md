@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ```
 
 ### Execution Steps
-1. Upload the analysis `.ipynb` notebook into Google Colab.
+1. Open [`zero_shot_vkb_classifier.ipynb`](zero_shot_vkb_classifier.ipynb) in Google Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpavan27/zero-shot-scene-classification/blob/main/zero_shot_vkb_classifier.ipynb)
 2. Mount your Google Drive where your Places365 subset resides.
 3. Update `DATA_ROOT` and `CLEAN_VKB_PATH` to point to your image folders.
 4. Execute the cells sequentially. 
